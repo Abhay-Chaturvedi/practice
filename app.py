@@ -4,7 +4,3 @@ def addition(a,b):
 def sub(a,b):
     return a-b
 
-#Conflict from main
-## Conflict from Origin
-
-#devAbay
