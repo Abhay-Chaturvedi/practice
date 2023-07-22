@@ -6,3 +6,8 @@ def sub(a,b):
 
 #Conflict from main
 ## Conflict from Origin
+<<<<<<< HEAD
+=======
+
+#devAbay
+>>>>>>> devAbay
